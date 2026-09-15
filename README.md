@@ -1,2 +1,2 @@
-# Alkalmzott-informatika-T-vk-zl-s
+# Alkalmzott-informatika-Tavkozles
 Fontos dokumentumok
